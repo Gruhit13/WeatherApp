@@ -9,4 +9,5 @@
    Users can find the information they want in a short time and limited clicks. It is easy to 
    be navigated than other weather mobile apps in the market.
    
- 
+ ## Structural View and Screen View
+<img src="https://github.com/Gruhit13/WeatherApp/blob/main/Screen%20View.png" alt="Board" width="500" height="500">
